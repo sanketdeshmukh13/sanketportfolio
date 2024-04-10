@@ -139,8 +139,7 @@ export const skills = [
     skills: [
       {
         name: "Git",
-        image:
-          "https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg",
+        image: "https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg",
       },
       {
         name: "GitHub",
@@ -164,8 +163,7 @@ export const skills = [
       },
       {
         name: "Postman",
-        image:
-          "https://www.svgrepo.com/show/354202/postman-icon.svg",
+        image: "https://www.svgrepo.com/show/354202/postman-icon.svg",
       },
       {
         name: "Adobe XD",
@@ -188,7 +186,7 @@ export const experiences = [
     role: " Fullstack Engineering Intern",
     company: "SBS Mindscript Software Solutions",
     date: "Jan 2024 - July 2024",
-    desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+    desc: "Working on Goverment Platforms, managing DevOps, and streamlining the process with automation.",
     skills: [
       "Javascript",
       "Python",
@@ -199,14 +197,14 @@ export const experiences = [
       "JavaScript",
       "TypeScript",
     ],
-    doc: "https://sbsmindscript.com/",
+    // doc: "https://www.dropbox.com/scl/fi/9sghywbnli4t6jt49dywa/Offer-Letter.pdf?rlkey=trbn705egmen22azt253tgz52&dl=0",
   },
   {
     id: 0,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
     role: "Frontend Engineer Intern",
     company: "Neurobit",
-    date: "June 2023 - Present",
+    date: "June 2023 - sep 2023",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
     skills: [
       "ReactJS",
@@ -217,7 +215,7 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+    // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
   },
   {
     id: 1,
@@ -292,7 +290,7 @@ export const education = [
     date: " jan 2021 - july 2024",
     grade: "8.03 CGPA",
     desc: "I completed my Higher Education (B-Tech CSE) at MIT collge,chh,sambhajinagar, where I studied Computer Science and Engineering.",
-    degree: "B-Tech in Computer Science and Engineering.",  
+    degree: "B-Tech in Computer Science and Engineering.",
   },
   {
     id: 1,
@@ -320,16 +318,10 @@ export const projects = [
     title: "Deshmukh Classes",
     date: "Nov 2023  - Dec 2023",
     description:
-      "DeshmukhClasses is a web application designed for Marketing Purpose. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "DeshmukhClasses is a web application designed for Marketing Purpose. It provides a user-friendly interface for parents as well as students about our Coaching Classes and Services.",
     image:
       "https://deshmukhclasses.netlify.app/static/media/Home1.155592525a144c489e1f.jpg",
-    tags: [
-      "React Js",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Bootstrap",
-    ],
+    tags: ["React Js", "HTML", "CSS", "JavaScript", "Bootstrap"],
     category: "web app",
     github: "https://deshmukhclasses.netlify.app/",
     webapp: "https://deshmukhclasses.netlify.app/",
@@ -339,14 +331,13 @@ export const projects = [
     title: "Liver Disease Prediction System",
     date: "july 2023 - Dec 2023",
     description:
-      
       "Devloped a Machine Learning Model Which Detect Liver Disease.To study the health of liver of a user and give a report on his condition of liver",
     image:
       "https://photo-cdn2.icons8.com/ECb5cpqzLOk0_zGjhwQS4Bi7oGjLZe0DzQtcMIsojXE/rs:fit:288:192/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvNTE5LzkxZmNh/MGU1LTRlNGUtNDAw/Zi05Y2FhLWE3Yjgz/NjY2MzIxMy5qcGc.webp",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "",
+    webapp: "",
     // member: [
     //   {
     //     name: "Rishav Chanda",
@@ -379,8 +370,8 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "",
+    webapp: "",
   },
   // {
   //   id: 2,
@@ -445,8 +436,8 @@ export const projects = [
       "https://tse1.mm.bing.net/th?id=OIP.AK6U_jX96M3WhF4sVwmVrgHaEK&pid=Api&rs=1&c=1&qlt=95&w=183&h=103",
     tags: ["React Js", "Firebase", "Firestore", "Node JS"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
+    github: "",
+    webapp: "",
   },
   {
     id: 5,
@@ -458,8 +449,8 @@ export const projects = [
       "https://images.pexels.com/photos/3299/postit-scrabble-to-do.jpg?auto=compress&cs=tinysrgb&w=600",
     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
+    github: "",
+    webapp: "",
   },
   // {
   //   id: 6,
@@ -484,8 +475,8 @@ export const projects = [
       "https://tse1.mm.bing.net/th?id=OIP.MnjMcHg698AEHQXPRb5o7AHaDt&pid=Api&rs=1&c=1&qlt=95&w=179&h=89",
     tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
-    webapp: "https://github.com/rishavchanda/Quiz-Earn",
+    github: "",
+    webapp: "",
   },
   // {
   //   id: 8,
