@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/sanketdeshmukh13",
   resume:
-    "https://www.dropbox.com/scl/fi/lu9zyntlj48dq3ymsor6f/07_sanket_deshmukh.pdf?rlkey=qspm4b3v01prpo9zw1g2s3t75&dl=0",
+    "https://www.dropbox.com/scl/fi/tesbnwhdyh19lqemouqiy/Sanket_Resume_updated.pdf?rlkey=xixzhh4xt6gucu3mgw5nri5o2&dl=0",
   linkedin: "https://www.linkedin.com/in/sanket-deshmukh-36416b285",
   // twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/sanket_deshmukh_13/",
@@ -325,13 +325,20 @@ export const education = [
 export const projects = [
   {
     id: 2,
-    title: "DESHMUKH Store",
+    title: "Shoppy.com",
     date: "jan 2024  - Feb 2024",
     description:
-      "Deshmukh Store aims to be a one-stop destination for online shopping, offering a wide range of products across categories such as electronics, fashion, home essentials, books, and more. With a user-friendly interface, secure transactions, and efficient delivery services, Deshmukh Store strives to provide a seamless shopping experience for its customers.",
+      "Shoppy.com aims to be a one-stop destination for online shopping, offering a wide range of products across categories such as electronics, fashion, home essentials, books, and more. With a user-friendly interface, secure transactions, and efficient delivery services, Deshmukh Store strives to provide a seamless shopping experience for its customers.",
     image:
       "https://tse3.mm.bing.net/th?id=OIP.mxIw3I6Pu88aeKQyTHgpuQHaFw&pid=Api&P=0&h=180",
-    tags: ["React Js", "NodeJs", "Express", "REdux", "TypeScript", "Firebase"],
+    tags: [
+      "React Js",
+      "NodeJs",
+      "Express",
+      "Redux ToolKit",
+      "TypeScript",
+      "Firebase",
+    ],
     category: "web app",
     github: "https://github.com/sanketdeshmukh13/MERN-ecommerce-frontend",
     webapp:
@@ -345,7 +352,15 @@ export const projects = [
       "Revolutionizing Communication with MERN Stack and Socket.IO. Harnessing the power of MongoDB, Express.js, React.js, and Node.js (MERN), coupled with real-time capabilities of Socket.IO, ChatApp offers a seamless messaging experience. With cutting-edge technology at its core, ChatApp enables instant connections, dynamic updates, and immersive interactions. Experience the synergy of MERN Stack and Socket.IO, empowering you to stay connected like never before",
     image:
       "https://tse3.mm.bing.net/th?id=OIP.9gwDUkR01svVeV9Wu1AX6gHaF7&pid=Api&P=0&h=180",
-    tags: ["React Js", "NodeJs", "Express", "REdux", "TypeScript", "Firebase"],
+    tags: [
+      "React Js",
+      "NodeJs",
+      "Express",
+      "Redux ToolKit",
+      "Scoket's",
+      "Firebase",
+      // "JavaScript",
+    ],
     category: "web app",
     github: "https://github.com/sanketdeshmukh13/MERN-ecommerce-frontend",
     webapp:
@@ -356,7 +371,7 @@ export const projects = [
     title: "Deshmukh Classes",
     date: "Nov 2023  - Dec 2023",
     description:
-      "DeshmukhClasses is a web application designed for Marketing Purpose. It provides a user-friendly interface for parents as well as students about our Coaching Classes and Services.",
+      "Deshmukh Classes is a web application designed for Marketing Purpose. It provides a user-friendly interface for parents as well as students about our Coaching Classes and Services.",
     image:
       "https://deshmukhclasses.netlify.app/static/media/Home1.155592525a144c489e1f.jpg",
     tags: ["React Js", "HTML", "CSS", "JavaScript", "Bootstrap"],
@@ -465,7 +480,19 @@ export const projects = [
       "Weather ForeCaster is a user-friendly web application designed to provide accurate and up-to-date weather forecasts for any location around the globe. Built using ReactJS, it offers a seamless and interactive experience for users to check the weather conditions wherever they are.",
     image:
       "https://tse1.mm.bing.net/th?id=OIP.mesMIi0u63pu9GpBuW6noAHaGc&pid=Api&P=0&h=180",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+    tags: ["React Js", "API's", "JAVASCRIPT", "Node JS"],
+    category: "web app",
+    github: "",
+    webapp: "https://sdweatherapp.netlify.app/",
+  },
+  {
+    id: 4,
+    title: "Swajeet Engineering",
+    date: "Apr 2024",
+    description:
+      "The Swajeet Engineering Web Portal serves as an informative and interactive platform designed to showcase the company's campus, products, services, and client portfolio. It offers visitors a comprehensive overview of Swajeet Engineering's capabilities, achievements, and offerings, while also providing easy access to relevant information and resources.",
+    image: "https://swajit.com/wp-content/uploads/2016/01/cropped-Swajit.png",
+    tags: ["React Js", "BootStrap", "JAVASCRIPT", "Node JS"],
     category: "web app",
     github: "",
     webapp: "https://sdweatherapp.netlify.app/",
@@ -478,7 +505,7 @@ export const projects = [
       " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
     image:
       "https://images.pexels.com/photos/3299/postit-scrabble-to-do.jpg?auto=compress&cs=tinysrgb&w=600",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+    tags: ["React Js", "HTML", "CSS", "API"],
     category: "web app",
     github: "",
     webapp: "",
@@ -498,15 +525,22 @@ export const projects = [
   // },
   {
     id: 7,
-    title: "Content Management Tool",
-    date: "Sep 2023 - Oct 2023",
+    title: "DESHMUKH Interprizes",
+    date: "Jan 2024 - Feb 2024",
     description:
-      "A Content Management Tool made up with react js & Bootstrap. by using this web app we will able to store text, photo and videio and create a blog. ",
+      "Deshmukh Enterprises is a comprehensive and dynamic web application designed to streamline and enhance the operations of your business. Leveraging the power of the MERN (MongoDB, Express.js, React.js, Node.js) stack, this application offers a seamless integration of front-end and back-end technologies to provide a robust and efficient platform for managing your business activities. ",
     image:
-      "https://tse1.mm.bing.net/th?id=OIP.MnjMcHg698AEHQXPRb5o7AHaDt&pid=Api&rs=1&c=1&qlt=95&w=179&h=89",
-    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-    category: "android app",
-    github: "",
+      "https://tse4.explicit.bing.net/th?id=OIP.yEtKCXrKyBEbtOowdoE0vwAAAA&pid=Api&P=0&h=180",
+    tags: [
+      "JavaScript",
+      "ReactsJs",
+      "MongoDB",
+      "JWT Auth",
+      "Express",
+      "NodeJs",
+    ],
+    category: "web app",
+    github: "https://github.com/sanketdeshmukh13/Deshmukh_Interprizes",
     webapp: "",
   },
   // {
