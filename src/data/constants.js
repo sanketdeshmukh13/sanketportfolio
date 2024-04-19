@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/sanketdeshmukh13",
   resume:
-    "https://www.dropbox.com/scl/fi/lu9zyntlj48dq3ymsor6f/07_sanket_deshmukh.pdf?rlkey=qspm4b3v01prpo9zw1g2s3t75&dl=0",
+    "https://www.dropbox.com/scl/fi/tesbnwhdyh19lqemouqiy/Sanket_Resume_updated.pdf?rlkey=xixzhh4xt6gucu3mgw5nri5o2&dl=0",
   linkedin: "https://www.linkedin.com/in/sanket-deshmukh-36416b285",
   // twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/sanket_deshmukh_13/",
@@ -27,15 +27,15 @@ export const skills = [
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
       {
-        name: "Redux",
+        name: "Redux TooKit",
         image:
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       },
-      {
-        name: "Next Js",
-        image:
-          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
-      },
+      // {
+      //   name: "Next Js",
+      //   image:
+      //     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+      // },
       {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -89,15 +89,15 @@ export const skills = [
         name: "Node Js",
         image: "https://nodejs.org/static/images/logo.svg",
       },
-      {
-        name: "MySQL",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
-      },
-      {
-        name: "Postgresql",
-        image: "https://www.postgresql.org/media/img/about/press/elephant.png",
-      },
+      // {
+      //   name: "MySQL",
+      //   image:
+      //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+      // },
+      // {
+      //   name: "Postgresql",
+      //   image: "https://www.postgresql.org/media/img/about/press/elephant.png",
+      // },
       {
         name: "MongoDB",
         image:
@@ -106,6 +106,11 @@ export const skills = [
       {
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+      },
+      {
+        name: "JWT Auth",
+        image:
+          "https://tse4.mm.bing.net/th?id=OIP.-fNC6idlekQAA98uuxoxGwHaCQ&pid=Api&P=0&h=180",
       },
     ],
   },
@@ -166,15 +171,20 @@ export const skills = [
         image: "https://www.svgrepo.com/show/354202/postman-icon.svg",
       },
       {
-        name: "Adobe XD",
+        name: "VITE",
         image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+          "https://tse3.mm.bing.net/th?id=OIP.ZQnktAbIkn5aNF1MVwKKlwHaDt&pid=Api&P=0&h=180",
       },
-      {
-        name: "Figma",
-        image:
-          "https://s3-alpha.figma.com/hub/file/697598809/ce5e0bb3-16b9-4d88-9bca-7d237fe725a8-cover.png",
-      },
+      // {
+      //   name: "Adobe XD",
+      //   image:
+      //     "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+      // },
+      // {
+      //   name: "Figma",
+      //   image:
+      //     "https://s3-alpha.figma.com/hub/file/697598809/ce5e0bb3-16b9-4d88-9bca-7d237fe725a8-cover.png",
+      // },
     ],
   },
 ];
@@ -190,7 +200,7 @@ export const experiences = [
     skills: [
       "Javascript",
       "Python",
-      "AWS",
+      // "AWS",
       "D-jango",
       "SQL",
       "ReactJs",
@@ -199,27 +209,27 @@ export const experiences = [
     ],
     // doc: "https://www.dropbox.com/scl/fi/9sghywbnli4t6jt49dywa/Offer-Letter.pdf?rlkey=trbn705egmen22azt253tgz52&dl=0",
   },
-  {
-    id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-    role: "Frontend Engineer Intern",
-    company: "Neurobit",
-    date: "June 2023 - sep 2023",
-    desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
-    // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
-  },
+  // {
+  //   id: 0,
+  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+  //   role: "Frontend Engineer Intern",
+  //   company: "Neurobit",
+  //   date: "June 2023 - sep 2023",
+  //   desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
+  //   skills: [
+  //     "ReactJS",
+  //     "Redux",
+  //     "NodeJs",
+  //     "Material UI",
+  //     "HTML",
+  //     "CSS",
+  //     "JavaScript",
+  //   ],
+  // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+  // },
   {
     id: 1,
-    img: "https://bharatintern.live/b/vip/d/icons/logoNoBg.png",
+    img: "https://bharatintern.live/static/logo-0946e9bd7220dc6ced94171785535121.png",
     role: "Fullstack Externship",
     company: "BharatIntern",
     date: "sep 2023 - oct 2023",
@@ -314,11 +324,54 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 2,
+    title: "Shoppy.com",
+    date: "jan 2024  - Feb 2024",
+    description:
+      "Shoppy.com aims to be a one-stop destination for online shopping, offering a wide range of products across categories such as electronics, fashion, home essentials, books, and more. With a user-friendly interface, secure transactions, and efficient delivery services, Deshmukh Store strives to provide a seamless shopping experience for its customers.",
+    image:
+      "https://tse3.mm.bing.net/th?id=OIP.mxIw3I6Pu88aeKQyTHgpuQHaFw&pid=Api&P=0&h=180",
+    tags: [
+      "React Js",
+      "NodeJs",
+      "Express",
+      "Redux ToolKit",
+      "TypeScript",
+      "Firebase",
+    ],
+    category: "web app",
+    github: "https://github.com/sanketdeshmukh13/MERN-ecommerce-frontend",
+    webapp:
+      "https://my-project-dct7dxni5-sanket-deshmukhs-projects-6b2bbf7d.vercel.app/",
+  },
+  {
+    id: 8,
+    title: "ChatCam",
+    date: "jan 2024  - Feb 2024",
+    description:
+      "Revolutionizing Communication with MERN Stack and Socket.IO. Harnessing the power of MongoDB, Express.js, React.js, and Node.js (MERN), coupled with real-time capabilities of Socket.IO, ChatApp offers a seamless messaging experience. With cutting-edge technology at its core, ChatApp enables instant connections, dynamic updates, and immersive interactions. Experience the synergy of MERN Stack and Socket.IO, empowering you to stay connected like never before",
+    image:
+      "https://tse3.mm.bing.net/th?id=OIP.9gwDUkR01svVeV9Wu1AX6gHaF7&pid=Api&P=0&h=180",
+    tags: [
+      "React Js",
+      "NodeJs",
+      "Express",
+      "Redux ToolKit",
+      "Scoket's",
+      "Firebase",
+      // "JavaScript",
+    ],
+    category: "web app",
+    github: "https://github.com/sanketdeshmukh13/MERN-ecommerce-frontend",
+    webapp:
+      "https://my-project-dct7dxni5-sanket-deshmukhs-projects-6b2bbf7d.vercel.app/",
+  },
+  {
+    id: 19,
     title: "Deshmukh Classes",
     date: "Nov 2023  - Dec 2023",
     description:
-      "DeshmukhClasses is a web application designed for Marketing Purpose. It provides a user-friendly interface for parents as well as students about our Coaching Classes and Services.",
+      "Deshmukh Classes is a web application designed for Marketing Purpose. It provides a user-friendly interface for parents as well as students about our Coaching Classes and Services.",
     image:
       "https://deshmukhclasses.netlify.app/static/media/Home1.155592525a144c489e1f.jpg",
     tags: ["React Js", "HTML", "CSS", "JavaScript", "Bootstrap"],
@@ -334,7 +387,7 @@ export const projects = [
       "Devloped a Machine Learning Model Which Detect Liver Disease.To study the health of liver of a user and give a report on his condition of liver",
     image:
       "https://photo-cdn2.icons8.com/ECb5cpqzLOk0_zGjhwQS4Bi7oGjLZe0DzQtcMIsojXE/rs:fit:288:192/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvNTE5LzkxZmNh/MGU1LTRlNGUtNDAw/Zi05Y2FhLWE3Yjgz/NjY2MzIxMy5qcGc.webp",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    tags: ["HTML", "CSS", "MongoDb", "D-Jango", "Python"],
     category: "machine learning",
     github: "",
     webapp: "",
@@ -361,14 +414,7 @@ export const projects = [
       "Developed MIT-PEDIA a web application which is intended to provide notes to all college students",
     image:
       "https://images.pexels.com/photos/19594239/pexels-photo-19594239/free-photo-of-neon-sign-in-the-bookstore-window.jpeg?auto=compress&cs=tinysrgb&w=600",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
-    ],
+    tags: ["HTML", "BootStrap", "MongoDb", "D-Jango", "Python", "JavaScript"],
     category: "web app",
     github: "",
     webapp: "",
@@ -428,16 +474,28 @@ export const projects = [
   // },
   {
     id: 4,
-    title: "Netflix Clone",
-    date: "jan 2024",
+    title: "Weather Forecaster",
+    date: "Dec 2023",
     description:
-      "A Netflix clone made with React JS, Firebase, and Material UI.where you can browse your favourite Movies, Shows, Series etc.",
+      "Weather ForeCaster is a user-friendly web application designed to provide accurate and up-to-date weather forecasts for any location around the globe. Built using ReactJS, it offers a seamless and interactive experience for users to check the weather conditions wherever they are.",
     image:
-      "https://tse1.mm.bing.net/th?id=OIP.AK6U_jX96M3WhF4sVwmVrgHaEK&pid=Api&rs=1&c=1&qlt=95&w=183&h=103",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+      "https://tse1.mm.bing.net/th?id=OIP.mesMIi0u63pu9GpBuW6noAHaGc&pid=Api&P=0&h=180",
+    tags: ["React Js", "API's", "JAVASCRIPT", "Node JS"],
     category: "web app",
     github: "",
-    webapp: "",
+    webapp: "https://sdweatherapp.netlify.app/",
+  },
+  {
+    id: 4,
+    title: "Swajeet Engineering",
+    date: "Apr 2024",
+    description:
+      "The Swajeet Engineering Web Portal serves as an informative and interactive platform designed to showcase the company's campus, products, services, and client portfolio. It offers visitors a comprehensive overview of Swajeet Engineering's capabilities, achievements, and offerings, while also providing easy access to relevant information and resources.",
+    image: "https://swajit.com/wp-content/uploads/2016/01/cropped-Swajit.png",
+    tags: ["React Js", "BootStrap", "JAVASCRIPT", "Node JS"],
+    category: "web app",
+    github: "",
+    webapp: "https://sdweatherapp.netlify.app/",
   },
   {
     id: 5,
@@ -447,7 +505,7 @@ export const projects = [
       " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
     image:
       "https://images.pexels.com/photos/3299/postit-scrabble-to-do.jpg?auto=compress&cs=tinysrgb&w=600",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+    tags: ["React Js", "HTML", "CSS", "API"],
     category: "web app",
     github: "",
     webapp: "",
@@ -467,15 +525,22 @@ export const projects = [
   // },
   {
     id: 7,
-    title: "Content Management Tool",
-    date: "Sep 2023 - Oct 2023",
+    title: "DESHMUKH Interprizes",
+    date: "Jan 2024 - Feb 2024",
     description:
-      "A Content Management Tool made up with react js & Bootstrap. by using this web app we will able to store text, photo and videio and create a blog. ",
+      "Deshmukh Enterprises is a comprehensive and dynamic web application designed to streamline and enhance the operations of your business. Leveraging the power of the MERN (MongoDB, Express.js, React.js, Node.js) stack, this application offers a seamless integration of front-end and back-end technologies to provide a robust and efficient platform for managing your business activities. ",
     image:
-      "https://tse1.mm.bing.net/th?id=OIP.MnjMcHg698AEHQXPRb5o7AHaDt&pid=Api&rs=1&c=1&qlt=95&w=179&h=89",
-    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-    category: "android app",
-    github: "",
+      "https://tse4.explicit.bing.net/th?id=OIP.yEtKCXrKyBEbtOowdoE0vwAAAA&pid=Api&P=0&h=180",
+    tags: [
+      "JavaScript",
+      "ReactsJs",
+      "MongoDB",
+      "JWT Auth",
+      "Express",
+      "NodeJs",
+    ],
+    category: "web app",
+    github: "https://github.com/sanketdeshmukh13/Deshmukh_Interprizes",
     webapp: "",
   },
   // {
